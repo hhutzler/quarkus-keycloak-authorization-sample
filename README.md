@@ -28,6 +28,7 @@ Make sure that `JAVA_HOME` environment variables have been set, and that a JDK 1
 
 ## Starting and Configuring the Keycloak Server ( see Part 1 )
 - For Keycloak Setup read [Part 1: Keycloak Setup ](https://www.helikube.de/part-1-setup-for-keycloak-authorization-sample )
+- For a quick Keycloa setup read [Part 1: Quick Keycloak Setup via impport ]( https://www.helikube.de/part-1-setup-for-keycloak-authorization-sample )
 
 ## Add. Info can be found at:
 - For Quarkus Setup read  [Part 2: Quarkus Setup ]( https://www.helikube.de/part-2-running-fine-grained-keycloak-authorization-feature-with-quarkus/)
